@@ -68,7 +68,7 @@ https://www.tooplate.com/view/2120-ben-resume
   /*---------------------------------------
      TYPOGRAPHY              
   -----------------------------------------*/
-.float{
+  .float{
     position:fixed;
     width:60px;
     height:60px;
@@ -84,8 +84,6 @@ https://www.tooplate.com/view/2120-ben-resume
   .my-float{
     margin-top:22px;
   }
-
-
   h1 {
     font-size: var(--h1-font-size);
   }
@@ -126,7 +124,7 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   .section-padding {
-    padding: 6rem 0;
+    padding: 1rem 0;
   }
 
   .custom-icon {
